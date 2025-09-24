@@ -4,20 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="1Gl1SOVNggaI22IDVdNU-4" value="信号切片（滑动窗口法）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Gl1SOVNggaI22IDVdNU-6" value="多维度特征提取（时域/频域）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Gl1SOVNggaI22IDVdNU-8" value="特征数据集（样本×特征矩阵）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1Gl1SOVNggaI22IDVdNU-15" value="最终结果&lt;div&gt;结构化特征数据集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="530" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-16" value="H [模型训练]" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="610" width="481" height="119" as="geometry" />
+          <mxGeometry x="30" y="980" width="481" height="119" as="geometry" />
         </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-17" value="特征标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1Gl1SOVNggaI22IDVdNU-16">
           <mxGeometry x="46" y="43" width="142" height="49" as="geometry" />
