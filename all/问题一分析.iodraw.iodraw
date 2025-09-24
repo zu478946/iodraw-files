@@ -46,13 +46,6 @@
         <mxCell id="1Gl1SOVNggaI22IDVdNU-73" value="MMD曲线图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537" y="1956" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="1Gl1SOVNggaI22IDVdNU-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Gl1SOVNggaI22IDVdNU-66" target="1Gl1SOVNggaI22IDVdNU-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="253" y="1508" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-81" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Gl1SOVNggaI22IDVdNU-67" target="1Gl1SOVNggaI22IDVdNU-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -139,6 +132,15 @@
             <mxPoint x="440" y="1480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="473" y="1609" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Gl1SOVNggaI22IDVdNU-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Gl1SOVNggaI22IDVdNU-66" target="1Gl1SOVNggaI22IDVdNU-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1530" as="sourcePoint" />
+            <mxPoint x="440" y="1480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="1610" />
             </Array>
           </mxGeometry>
         </mxCell>
