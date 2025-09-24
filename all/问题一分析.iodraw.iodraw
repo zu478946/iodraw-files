@@ -41,10 +41,10 @@
           <mxGeometry x="20" y="1956" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-72" value="t-SNE特征分布图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="308" y="1956" width="179" height="49" as="geometry" />
+          <mxGeometry x="300" y="1970" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-73" value="MMD曲线图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="537" y="1956" width="142" height="49" as="geometry" />
+          <mxGeometry x="540" y="1970" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1Gl1SOVNggaI22IDVdNU-81" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Gl1SOVNggaI22IDVdNU-67" target="1Gl1SOVNggaI22IDVdNU-68">
           <mxGeometry relative="1" as="geometry">
