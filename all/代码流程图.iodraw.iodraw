@@ -51,10 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-54" value="求线性方程组J·p=-F" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="460" width="115" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dNpjQ0BCIlgBkK8GUrpJ-54" target="dNpjQ0BCIlgBkK8GUrpJ-54">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="360" y="460" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
