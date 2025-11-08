@@ -70,6 +70,9 @@
             <mxPoint x="120" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dNpjQ0BCIlgBkK8GUrpJ-16" target="dNpjQ0BCIlgBkK8GUrpJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-16" value="使用候选解计算所有数据残差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="555" width="120" height="45" as="geometry" />
         </mxCell>
