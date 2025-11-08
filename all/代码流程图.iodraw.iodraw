@@ -73,6 +73,12 @@
         <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-16" value="使用候选解计算所有数据残差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="555" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dNpjQ0BCIlgBkK8GUrpJ-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
