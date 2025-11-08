@@ -59,8 +59,14 @@
             <mxPoint x="411" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="351" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-57" value="得到牛顿方向p" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
