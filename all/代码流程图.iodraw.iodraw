@@ -145,8 +145,14 @@
             <mxPoint x="640" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-39" value="输出最终解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dNpjQ0BCIlgBkK8GUrpJ-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
