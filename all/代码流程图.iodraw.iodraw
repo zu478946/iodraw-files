@@ -89,8 +89,8 @@
             <mxPoint x="410" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="351" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-64" value="返回失败，结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
