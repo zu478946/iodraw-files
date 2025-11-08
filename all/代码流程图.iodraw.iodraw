@@ -46,8 +46,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="dNpjQ0BCIlgBkK8GUrpJ-12" value="求候选解" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="390" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
