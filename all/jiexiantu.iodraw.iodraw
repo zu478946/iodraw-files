@@ -120,9 +120,6 @@
             <mxPoint x="452" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Qlg7IekV7zYCxqpHilA-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.eightLineBusElbow;notch=180;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="200" height="200" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
